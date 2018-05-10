@@ -1,0 +1,22 @@
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.deps.json
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.runtimeconfig.json
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.runtimeconfig.dev.json
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.dll
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.pdb
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.csprojAssemblyReference.cache
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.csproj.CoreCompileInputs.cache
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.AssemblyInfoInputs.cache
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.AssemblyInfo.cs
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.dll
+C:\Users\adam.m.cunningham\Documents\Visual Studio 2017\Projects\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.pdb
+C:\GitRepos\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.deps.json
+C:\GitRepos\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.runtimeconfig.json
+C:\GitRepos\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.runtimeconfig.dev.json
+C:\GitRepos\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.dll
+C:\GitRepos\Ode_To_Food\Ode_To_Food\bin\Debug\netcoreapp2.0\Ode_To_Food.pdb
+C:\GitRepos\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.csprojAssemblyReference.cache
+C:\GitRepos\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.csproj.CoreCompileInputs.cache
+C:\GitRepos\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.AssemblyInfoInputs.cache
+C:\GitRepos\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.AssemblyInfo.cs
+C:\GitRepos\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.dll
+C:\GitRepos\Ode_To_Food\Ode_To_Food\obj\Debug\netcoreapp2.0\Ode_To_Food.pdb
