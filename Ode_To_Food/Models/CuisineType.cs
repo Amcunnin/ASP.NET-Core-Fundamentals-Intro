@@ -10,8 +10,9 @@ namespace Ode_To_Food.Models
         None,
         Italian,
         French,
-        Germain,
+        German,
         Greek,
-        American
+        American,
+        Mexican
     }
 }
