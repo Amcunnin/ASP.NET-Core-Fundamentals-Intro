@@ -35,6 +35,12 @@ namespace Ode_To_Food.Services
             return restaurant;
         }
 
+        public Restaurant Update(Restaurant restaurant)
+        {
+            //TODO Update Restaurant
+            return restaurant;
+        }
+
         private List<Restaurant> _restaurants;
     }
 }
