@@ -1,18 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
+﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Routing;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Ode_To_Food.Data;
+using Ode_To_Food.Middleware;
 using Ode_To_Food.Services;
 
-namespace Ode_To_Food
+namespace Microsoft.AspNetCore.Builder
 {
     public class Startup
     {
@@ -45,14 +39,19 @@ namespace Ode_To_Food
             
             app.UseStaticFiles();
 
+            app.UseNodeModules(env.ContentRootPath);
+
             app.UseMvc(configureRoutes);
 
+
+            /*
             app.Run(async (context) =>
             {
                 var greeting = greeter.GetMessageOfTheDay();
                 context.Response.ContentType = "text/plain";
                 await context.Response.WriteAsync($"Not Found");
             });
+            */
         }
 
         private void configureRoutes(IRouteBuilder routeBuilder)
